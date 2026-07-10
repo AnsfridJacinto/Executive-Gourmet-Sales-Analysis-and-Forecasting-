@@ -15,12 +15,15 @@ The catering service industry has proven its seasonality, peaking during the mon
 # Skills
 SQL: CTEs, Joins, Case, aggregate functions
 
-Tableau: 
+Tableau Desktop: Calculated fields, Data Visualization, ETL
 
-Python: 
+Python: Pandas, Matplotlib, writing functions, descriptive statistics
 
-RStudio: dplyr, ppcor, gtsummary, tidyverse
+RStudio: dplyr, ppcor, gtsummary, tidyverse, exploratory statistics, building a statistical forecasting model
 
 # Results and Recommendations:
 
 # Next Steps:
+1. Analyze the 1st quarter sales data of 2026 to observe if the pattern is consistent
+2. Create Marketing Research regarding corporate clients
+3. Coordinate with existing corporate clients to acquire further event and service deals along with acquisition of new clients
