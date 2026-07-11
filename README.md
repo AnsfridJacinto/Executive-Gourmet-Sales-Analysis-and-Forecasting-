@@ -23,7 +23,7 @@ Python: Pandas, Matplotlib, writing functions, descriptive statistics
 RStudio: dplyr, ppcor, gtsummary, tidyverse, exploratory statistics, building a statistical forecasting model
 
 # Results and Recommendations:
-
+Created a dashboard to track orders
 # Next Steps:
 1. Analyze the 1st quarter sales data of 2026 to observe if the pattern is consistent
 2. Create Marketing Research regarding corporate clients
