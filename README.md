@@ -6,6 +6,7 @@ Using SQL, python, RStudio, and Tableau, I pulled sales data from our local serv
 3. Leveraging Existing coporate partners and their ties to larger conglomerates
 # Business Problem:
 The catering service industry has proven its seasonality, peaking during the months between October and January. It is important to find a client base and product line that would be sustainable throughout the year. Which Line-of-Business (LOB) can sustain a year-on service turnover, in spite of the seasonal highs?
+<img width="1400" height="900" alt="image" src="https://github.com/user-attachments/assets/cdfe3837-6985-4de1-ad1b-1a34a7749332" />
 
 # Methodology:
 1. SQL query that extracts, cleans, and transforms data from the local server database and Salesforce.
