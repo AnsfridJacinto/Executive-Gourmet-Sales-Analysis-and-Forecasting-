@@ -23,7 +23,9 @@ Python: Pandas, Matplotlib, writing functions, descriptive statistics
 RStudio: dplyr, ppcor, gtsummary, tidyverse, exploratory statistics, building a statistical forecasting model
 
 # Results and Recommendations:
-Created a dashboard to track orders
+Creating a dashboard to track product orders, sales trends, and projected sales would give the business owner possible avenues for growth. Having democritized sales data and projections, the owner is able to have a bigger picture of the performance of various service lines, and the marketing team would have a data-backed basis to explore a client base that would further expand our market share within the region. Following the rollout of Packed Meals and Concessionaire services in Q2 2024, retained corporate clients increased by approximately 10% year-over-year, with these services estimated to account for around 70–80% of that increase. According to the projection seen in the model made in RStudio and Python, a more concerted effort towards attaining corporate clients through further advertisement of these services will yield a more consistent yearly revenue stream. For every one (1) corporate client signed, an increase of ~ 12% on yearly revenue can be expected.  
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/17ec6344-4e68-4a41-9f33-cccfb2c5b3c9" />
+
 # Next Steps:
 1. Analyze the 1st quarter sales data of 2026 to observe if the pattern is consistent
 2. Create Marketing Research regarding corporate clients
